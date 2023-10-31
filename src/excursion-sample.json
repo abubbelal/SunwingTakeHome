@@ -1,0 +1,90 @@
+[
+    {
+        "categoryName": "Land/Water Combo Excursions",
+        "subCategories": [
+            {
+                "subCategoryName": "Full Day",
+                "excursions": [
+                    {
+                        "excursionCode": "CUNC32BTU",
+                        "excursionName": "Tour Xel-Há",
+                        "excursionFullName": "Tour Xel-Há",
+                        "excursionShortDescription": "Explore an ecological preservation and enjoy exciting activities at incredible Xel-Há Park on this EarthCheck certified tour. \n",
+                        "excursionImages": {
+                            "Img4x3": [
+                                "//assets.sunwingtravelgroup.com/f_auto,q_auto/sunwing-prod/ExcursionImages/CUNC32/4x3/001.jpg"
+                            ],
+                            "Img16x9": [
+                                "//assets.sunwingtravelgroup.com/f_auto,q_auto/sunwing-prod/ExcursionImages/CUNC32/16X9/001.jpg"
+                            ],
+                            "ImgThumbnails": [
+                                "//assets.sunwingtravelgroup.com/f_auto,q_auto/sunwing-prod/ExcursionImages/CUNC32/Thumbnails/001.jpg"
+                            ]
+                        }
+                    },
+                    {
+                        "excursionCode": "CUNC15BMA",
+                        "excursionName": "Mayan Adventure",
+                        "excursionFullName": "Mayan Adventure",
+                        "excursionShortDescription": "This day trip will bring you to three Mayan gems to explore: a snorkelling site, a hidden cave and a cenote.\n\n•\tSnorkel through the crystal-clear waters of the Caribbean Sea\n•\tExplore an underground river in a hidden cave\n•\tSwim in a pristine cenote surrounded by lush jungle\n",
+                        "excursionImages": {
+                            "Img4x3": [
+                                "//assets.sunwingtravelgroup.com/f_auto,q_auto/sunwing-prod/ExcursionImages/CUNC15/4x3/001.jpg"
+                            ],
+                            "Img16x9": [
+                                "//assets.sunwingtravelgroup.com/f_auto,q_auto/sunwing-prod/ExcursionImages/CUNC15/16x9/001.jpg"
+                            ],
+                            "ImgThumbnails": [
+                                "//assets.sunwingtravelgroup.com/f_auto,q_auto/sunwing-prod/ExcursionImages/CUNC15/Thumbnails/001.jpg"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "categoryName": "Land Activities and Excursions",
+        "subCategories": [
+            {
+                "subCategoryName": "Historical Sites",
+                "excursions": [
+                    {
+                        "excursionCode": "CUNL09BTL2",
+                        "excursionName": "Tulum Half Day",
+                        "excursionFullName": "Tulum Half Day",
+                        "excursionShortDescription": "Visit the archaeological site of Tulum, located on a cliff overlooking the turquoise waters of the Caribbean, and learn about the ancient Mayan civilization on this half-day tour.\n\n•\tExplore the historic ruins of Tulum\n•\tShop for keepsakes of your Tulum adventure\n",
+                        "excursionImages": {
+                            "Img4x3": [
+                                "//assets.sunwingtravelgroup.com/f_auto,q_auto/sunwing-prod/ExcursionImages/CUNL09/4X3/001.jpg"
+                            ],
+                            "Img16x9": [
+                                "//assets.sunwingtravelgroup.com/f_auto,q_auto/sunwing-prod/ExcursionImages/CUNL09/16X9/001.jpg"
+                            ],
+                            "ImgThumbnails": [
+                                "//assets.sunwingtravelgroup.com/f_auto,q_auto/sunwing-prod/ExcursionImages/CUNL09/Thumbnails/001.jpg"
+                            ]
+                        }
+                    },
+                    {
+                        "excursionCode": "CUNL12BIT1",
+                        "excursionName": "Chichen Itza Tour",
+                        "excursionFullName": "Chichen Itza Tour",
+                        "excursionShortDescription": "Journey to the famous ruins of Chichén Itzá to take in one of the Seven Wonders of the New World.",
+                        "excursionImages": {
+                            "Img4x3": [
+                                "//assets.sunwingtravelgroup.com/f_auto,q_auto/sunwing-prod/ExcursionImages/CUNL12/4X3/001.jpg"
+                            ],
+                            "Img16x9": [
+                                "//assets.sunwingtravelgroup.com/f_auto,q_auto/sunwing-prod/ExcursionImages/CUNL12/16X9/001.jpg"
+                            ],
+                            "ImgThumbnails": [
+                                "//assets.sunwingtravelgroup.com/f_auto,q_auto/sunwing-prod/ExcursionImages/CUNL12/Thumbnails/001.jpg"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

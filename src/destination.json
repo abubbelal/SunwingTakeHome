@@ -1,0 +1,97 @@
+[
+    {
+        "countryName": "Antigua",
+        "destinations": [
+            "Antigua"
+        ]
+    },
+    {
+        "countryName": "Aruba",
+        "destinations": [
+            "Aruba"
+        ]
+    },
+    {
+        "countryName": "Costa Rica",
+        "destinations": [
+            "Liberia"
+        ]
+    },
+    {
+        "countryName": "Cuba",
+        "destinations": [
+            "Cayo Coco",
+            "Cayo Santa Maria",
+            "Holguin",
+            "Varadero"
+        ]
+    },
+    {
+        "countryName": "Dominican Republic",
+        "destinations": [
+            "La Romana",
+            "Punta Cana",
+            "Puerto Plata"
+        ]
+    },
+    {
+        "countryName": "Grenada",
+        "destinations": [
+            "Grenada"
+        ]
+    },
+    {
+        "countryName": "Honduras",
+        "destinations": [
+            "Roatan"
+        ]
+    },
+    {
+        "countryName": "Jamaica",
+        "destinations": [
+            "Lucea",
+            "Montego Bay",
+            "Negril",
+            "Ocho Rios",
+            "Runaway Bay",
+            "Trelawny"
+        ]
+    },
+    {
+        "countryName": "Mexico",
+        "destinations": [
+            "Cancun",
+            "Riviera Maya",
+            "Playa Del Carmen",
+            "Los Cabos",
+            "Mazatlán",
+            "Puerto Vallarta",
+            "Riviera Nayarit"
+        ]
+    },
+    {
+        "countryName": "Panama",
+        "destinations": [
+            "Panama",
+            "Playa Blanca"
+        ]
+    },
+    {
+        "countryName": "Saint Lucia",
+        "destinations": [
+            "St Lucia"
+        ]
+    },
+    {
+        "countryName": "St Maarten",
+        "destinations": [
+            "St. Maarten"
+        ]
+    },
+    {
+        "countryName": "United States",
+        "destinations": [
+            "Melbourne"
+        ]
+    }
+]
